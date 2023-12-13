@@ -1,5 +1,5 @@
 
-import "dart:math" show pow;
+import "dart:math" show pow
 
 void bitwiseConversion(var n) {
   int b = 0, c = 0, d;
